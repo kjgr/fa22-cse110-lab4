@@ -1,0 +1,2 @@
+1. The website's calculator does string concatenation instead of addition of numbers.
+2. We can fix the converting the inputs from sstrings to integer using parseInt() or parseFloat(). I use parseFloat so integers and decimal numbers can be dealt with.
